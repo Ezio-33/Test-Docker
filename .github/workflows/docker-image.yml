@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ https://github.com/Antonin-crypto/ }}/votre-nom-depot:latest
+          tags: ghcr.io/${{ https://github.com/Ezio-33/ }}/votre-nom-depot:latest
